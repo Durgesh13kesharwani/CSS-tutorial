@@ -1,0 +1,25 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    /*border-width: 2px;
+    border-style: dotted;
+    border-color: blue;*/
+    border: 2px dotted blue;
+    border-radius: 25%;
+    /* padding-left: 25px;
+    padding-right: 25px; */
+    padding: 25px;
+    /* margin-bottom: 50px; */
+    margin: 25px;
+}
+h1{
+    height: 50px;
+    width: 150px;
+    background-color: pink;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: blue;
+    text-align: center; 
+    /* ye box ke centre me jaega ab */
+}
